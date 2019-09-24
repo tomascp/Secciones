@@ -1,0 +1,26 @@
+h1{
+    font-size: 5em;
+}
+
+#secciones{
+    padding: 8em 0em 8em 0em;
+}
+
+#seccion1 p{
+ font-size: 3em;
+ background: blue;
+ }
+
+
+ }
+ #seccion2  {
+    font-size: 3em;
+    background: green;
+ }
+
+ 
+ #seccion3 div p{
+    font-size: 3em;
+    background: red;
+
+ } 
